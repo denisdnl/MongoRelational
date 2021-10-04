@@ -65,6 +65,11 @@ Adding AddMongoRelational will inject as Transient MongoRelationalClass in App's
 
 <br/>
 
+## Licensing
+[MIT](https://opensource.org/licenses/MIT)
+
+<br/>
+
 
 ## Versions
 
