@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MongoDb.Relational</id>
+    <version>1.0.0</version>
+    <authors>denisdnl</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/denisdnl/MongoRelational</projectUrl>
+    <description>MongoDb simple ORM</description>
+    <copyright>$copyright$</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.CSharp" version="4.7.0" />
+		<dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="5.0.0" />
+		<dependency id="MongoDB.Bson" version="2.13.1" />
+		<dependency id="MongoDB.Driver" version="2.13.1" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

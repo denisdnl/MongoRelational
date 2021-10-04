@@ -11,7 +11,7 @@ A parent will only keep a reference to it's child, not the entire model( [Refere
 <br/>
 
 ## Usage
-
+Import nuget https://www.nuget.org/packages/MongoDb.Relational/
 ```
 public void ConfigureServices(IServiceCollection services)
 {          
